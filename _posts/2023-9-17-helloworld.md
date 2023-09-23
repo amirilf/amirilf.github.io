@@ -5,7 +5,7 @@ tags: [hello world]
 ---
 
 There is no useful content 😂😂\
-except saying this for the first time and starting this blog 🌿
+except saying this for the first time & starting this blog 🌿
 
 ![hello world image](https://upload.wikimedia.org/wikipedia/commons/9/96/Hello_World!_in_Firefox_31.png)
 
